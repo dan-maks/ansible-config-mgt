@@ -3,3 +3,5 @@
 testing Ansible
 
 Created new directory
+
+save artifacts
